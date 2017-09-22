@@ -1,0 +1,87 @@
+.mainContainer {
+
+    background-color:whitesmoke;
+    width:500px;
+    margin:0 auto;
+
+}
+
+.containerHeading {
+
+    margin:0 auto;
+
+}
+
+#headingLogo {
+
+    font-family:Lato;
+    color:#FFAAAA;
+    text-align:center;
+
+}
+
+#addInput {
+
+    color:bisque;
+    border-radius:30px;
+    background-color:#D46A6A;
+    font-size:14px;
+
+}
+
+#addButton {
+
+    border-radius:30px;
+    padding:5px;
+
+}
+
+#addContainer {
+
+    text-align:center;
+
+}
+
+#taskIntro {
+
+    font-family:Lato;
+
+}
+
+#completeTasksIntro {
+
+    font-family:Lato;
+
+}
+
+#compTasksList {
+
+    font-family:Arial;
+    margin-right:50px;
+
+}
+
+#tasksList {
+
+    font-family:Arial;
+
+}
+
+.editButtonIntro {
+
+    color:black;
+    font-family:Lato;
+    padding:5px;
+    border-radius:30px;
+    margin-left:5px;
+
+}
+
+.delButtonIntro {
+
+    color:black;
+    font-family:Lato;
+    padding:5px;
+    border-radius:30px;
+
+}
